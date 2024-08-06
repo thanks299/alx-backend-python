@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""Task 2 modules.
+"""
 import asyncio
 import time
 from typing import List
